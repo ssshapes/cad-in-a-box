@@ -2,7 +2,7 @@
 
 FreeCAD and Blender, driven by [Claude Code](https://claude.com/claude-code). You describe a part, Claude builds it in FreeCAD as real parametric CAD, then renders it in Blender so you can see it. No install script: the repo tells Claude how to set itself up on your machine.
 
-> **A note from me first.** [YOUR DISCLAIMER HERE, in your words, e.g. the line from the memory-architecture repo: not a developer, very little knowledge of good programming practice; what I bring is taste, judgment, curiosity, and a fixation with not forgetting things that are useful.] Claude wrote the code. I've been using this setup for my own product design work since October, and the notes in it are what broke along the way.
+> I'm not a developer. Claude wrote the code. I use this for my own product design work.
 
 ## Start
 
