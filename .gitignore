@@ -1,0 +1,4 @@
+out/
+work/*
+!work/.gitkeep
+__pycache__/
